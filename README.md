@@ -1,2 +1,4 @@
 # Bootstrap-Portfolio
-Homework 2 pt 1
+https://wbenarto.github.io/Bootstrap-Portfolio/
+
+Rough draft portfolio using bootstrap
